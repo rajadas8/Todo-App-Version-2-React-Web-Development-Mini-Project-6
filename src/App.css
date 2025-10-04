@@ -1,0 +1,10 @@
+/* Raja Ram Hemsworth => App CSS Code */
+input{
+    width: 50%;
+}
+.kg-row{
+    margin: 10px;
+}
+.kg-button{
+    min-width: 75px;
+}
